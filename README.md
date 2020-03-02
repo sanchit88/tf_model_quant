@@ -1,4 +1,4 @@
-# tf_model_quant_ex
+# tf_model_quant
 Model quantization using TFLite example
 
 ### Installation
